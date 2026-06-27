@@ -1,0 +1,6 @@
+{
+  "name": "Pusat Olimpiade Sains Indonesia - POSI",
+  "description": "Platform pelatihan, olimpiade sains, CBT, dan buku olimpiade terbaik di Indonesia. Wujudkan prestasi akademik terbaik bersama POSI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
